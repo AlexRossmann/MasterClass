@@ -7,4 +7,4 @@ This repository is dedicated to master programmes at Reutlingen University. It c
 
 (2) Simple Linear Regression based on three features (brand, sales, shop time) and price as a target.
 
-(3) Next time we will work with multiple linear regression models
+(3) Multiple Linear Regression based in a car dealer data set (price as target).
