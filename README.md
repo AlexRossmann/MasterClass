@@ -7,4 +7,10 @@ This repository is dedicated to master programmes at Reutlingen University. It c
 
 (2) Simple Linear Regression based on three features (brand, sales, shop time) and price as a target.
 
-(3) Multiple Linear Regression based in a car dealer data set (price as target).
+(3) Multiple Linear Regression based on a car dealer data set (price as target).
+
+(4) Classification (Logistic Regression) based on bank data.
+
+(5) Classification (Logistic Regression) based on telecommunications data.
+
+(6) Cluster Analysis based on market segmentation data.
