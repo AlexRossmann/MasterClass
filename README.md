@@ -14,3 +14,5 @@ This repository is dedicated to master programmes at Reutlingen University. It c
 (5) Classification (Logistic Regression) based on telecommunications data.
 
 (6) Cluster Analysis based on market segmentation data.
+
+Further code examples will be saved later here!
