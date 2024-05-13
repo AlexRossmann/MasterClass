@@ -15,4 +15,8 @@ This repository is dedicated to master programmes at Reutlingen University. It c
 
 (6) Cluster Analysis based on market segmentation data.
 
+(7) Multiple Linear Regression on Housing Prices.
+
+(8) Classification Analysis for Cancer Detection
+
 Further code examples will be saved later here!
