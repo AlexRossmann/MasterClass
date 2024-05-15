@@ -19,4 +19,6 @@ This repository is dedicated to master programmes at Reutlingen University. It c
 
 (8) Classification Analysis for Cancer Detection
 
+(9) NLP Spam Filtering
+
 Further code examples will be saved later here!
