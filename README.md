@@ -21,4 +21,6 @@ This repository is dedicated to master programmes at Reutlingen University. It c
 
 (9) NLP Spam Filtering
 
+(10) RAG Model for PDF analysis
+
 Further code examples will be saved later here!
