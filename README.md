@@ -23,4 +23,6 @@ This repository is dedicated to master programmes at Reutlingen University. It c
 
 (10) RAG Model for PDF analysis
 
+(11) New Model
+
 Further code examples will be saved later here!
